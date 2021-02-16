@@ -17,7 +17,7 @@ snow_block;16;175;0.63
 ice;16;225;0.63
 sand;32;225;0.16
 red_sand;32;250;0.19
-clay;32;250;0.63
+clay;32;250;0.31
 obsidian;1;100;10
 netherrack;32;200;0.16
 glowstone;16;275;1.25
